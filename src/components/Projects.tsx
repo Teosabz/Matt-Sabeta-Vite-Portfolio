@@ -10,7 +10,7 @@ import { Button } from "./ui/button";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { ExternalLink, Github, Monitor, Code } from "lucide-react";
 
-// ✅ import images from src/assets
+//  import images from src/assets
 import tasteluxeImg from "../assets/tl.png";
 import whispersImg from "../assets/whisper.png";
 import bakersImg from "../assets/bakers.png";
@@ -25,7 +25,7 @@ import newsImg from "../assets/news.png";
 import takacoolerImg from "../assets/takacooler.png";
 import comingSoonVideo from "../assets/coming-soon.mp4"; //  video
 
-// ✅ Define type so github/demo are optional
+//  Define type so github/demo are optional
 type Project = {
   title: string;
   description: string;
