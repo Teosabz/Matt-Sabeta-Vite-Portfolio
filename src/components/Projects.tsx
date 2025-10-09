@@ -23,7 +23,7 @@ import cooksyImg from "../assets/kuk.png";
 import playhubImg from "../assets/playhub.png";
 import newsImg from "../assets/news.png";
 import takacoolerImg from "../assets/takacooler.png";
-import comingSoonVideo from "../assets/coming-soon.mp4"; //  video
+import comingSoon from "../assets/Coming-soon.mp4";
 
 //  Define type so github/demo are optional
 type Project = {
@@ -150,14 +150,14 @@ export function Projects() {
     {
       title: "Coming Soon",
       description: "More projects on the way!",
-      image: comingSoonVideo, // 🎥 will show <video>
+      image: comingSoon, // 🎥 will show <video>
       technologies: [],
       type: "upcoming",
     },
     {
       title: "Coming Soon",
       description: "More projects on the way!",
-      image: comingSoonVideo, // 🎥 will show <video>
+      image: comingSoon, // 🎥 will show <video>
       technologies: [],
       type: "upcoming",
     },
