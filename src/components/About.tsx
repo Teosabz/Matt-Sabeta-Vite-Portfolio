@@ -25,7 +25,7 @@ export function About() {
           >
             <div className="absolute inset-0 bg-gradient-to-br from-green-500/15 to-emerald-500/12 rounded-2xl blur-xl"></div>
             <ImageWithFallback
-              src="https://images.unsplash.com/photo-1640109341881-1cd3eaf50909?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBvZmZpY2UlMjB3b3Jrc3BhY2UlMjBzZXR1cHxlbnwxfHx8fDE3NTkxNjU4ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+              src="src/assets/teo.png"
               alt="Modern workspace setup"
               className="relative z-10 w-full h-96 object-cover rounded-2xl border border-white/25 shadow-2xl"
             />
